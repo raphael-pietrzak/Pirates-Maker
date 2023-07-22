@@ -252,7 +252,7 @@ class EndScreen:
                     self.switch('Level', self.level_id)
                 if self.back_button.rect.collidepoint(mouse_pos()):
                     self.switch('Levels')
-                if self.level_id < self.level_max and self.next_button.rect.collidepoint(mouse_pos()):
+                if self.level_id < self.level_max and self.end_message == 'Victory' and self.next_button.rect.collidepoint(mouse_pos()):
                     self.switch('Level', self.level_id + 1)
                 
 
