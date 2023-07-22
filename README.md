@@ -18,7 +18,7 @@ adventure theme/ SuperHero - https://opengameart.org/content/adventure-theme
 ## Running
 
 * $ pip install -r requirements.txt
-* $ python game/main.py
+* $ python3 game/main.py
 
 ## Dependency	
 * pygame	
