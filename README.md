@@ -15,11 +15,24 @@ The 2 pieces of background music are:
 explorer theme - https://opengameart.org/content/8-bit-explorer-theme
 adventure theme/ SuperHero - https://opengameart.org/content/adventure-theme
 
+## Thanks
+
+
+
 ## Running
 
 * $ pip install -r requirements.txt
-* $ python3 game/main.py
+* $ cd game
+* $ python3 main.py
 
 ## Dependency	
 * pygame	
+
+
+## Preview
+
+![Alt text](graphics/readme/levels.png)
+
+![Alt text](graphics/readme/game.png)
+
 
