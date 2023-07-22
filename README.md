@@ -19,6 +19,8 @@ adventure theme/ SuperHero - https://opengameart.org/content/adventure-theme
 
 I wanted to thank clear code for teaching me in a super clear and intuitive way how to use classes. Thank you for the best code youtube channel I know.
 
+https://www.youtube.com/@ClearCode
+
 
 ## Running
 
